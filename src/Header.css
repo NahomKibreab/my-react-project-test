@@ -1,0 +1,11 @@
+.header {
+  background-color: rgb(5, 116, 243);
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  font-size: 50px;
+  justify-content: space-around;
+  color: white;
+}
